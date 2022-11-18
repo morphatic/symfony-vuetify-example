@@ -1,7 +1,7 @@
 {
     "devDependencies": {
         "@mdi/js": "^3.8.95",
-        "@symfony/webpack-encore": "^0.27.0",
+        "@symfony/webpack-encore": "^4.1.1",
         "core-js": "^3.0.0",
         "deepmerge": "^4.0.0",
         "fibers": "^4.0.1",
